@@ -1,4 +1,4 @@
-# 🕰️ TickClock Online - Your Friendly Time Companion
+# Tick Clock
 
 [![Visit TickClock](https://img.shields.io/badge/Visit-TickClock.online-blue?style=for-the-badge)](https://tickclock.online)
 
